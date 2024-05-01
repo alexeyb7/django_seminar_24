@@ -1,0 +1,4 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+"GET /firstapp/ HTTP/1.1" 200 11
